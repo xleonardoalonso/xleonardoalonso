@@ -7,9 +7,8 @@
 </p>
 
 <p align="left">
-  💼 Main Skills: **Linux, Packer, Ansible, Terraform, CI/CD Tools, Docker, Kubernetes, Helm, Grafana, Prometheus, Dynatrace, Python (for infra automation)**
+  💼 Main Skills: <strong> Linux, Packer, Ansible, Terraform, CI/CD Tools, Docker, Kubernetes, Helm, Grafana, Prometheus, Dynatrace, Python (for infra automation)</strong>
 </p>
-
 
 <p align="left">
   <a href="#" title="LinkedIn">
